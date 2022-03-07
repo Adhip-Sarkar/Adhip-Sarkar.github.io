@@ -1,4 +1,4 @@
-This is personal website of Adhip.
+This repository is about the personal website of Adhip.
 
 
 Credits:
